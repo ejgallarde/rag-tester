@@ -1,0 +1,12 @@
+[
+  {
+    "id": "test_01",
+    "prompt": "What is the capital of France?",
+    "expected_output": "Paris"
+  },
+  {
+    "id": "test_02",
+    "prompt": "Who wrote 'Pride and Prejudice'?",
+    "expected_output": "Jane Austen"
+  }
+]

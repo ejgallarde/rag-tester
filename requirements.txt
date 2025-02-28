@@ -1,0 +1,6 @@
+pytest==7.0.0
+PyPDF2
+textstat
+nltk
+spacy
+sentence-transformers
